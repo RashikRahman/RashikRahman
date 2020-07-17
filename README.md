@@ -7,14 +7,44 @@
 [![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rashikrahman.pritom.7)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/rashikrahmanpritom)
 
-Here are some ideas to get you started:
+:wave: Hi there, My name is Rashik Rahman hailing from Dhaka, Bangladesh. I am 22 years old. I am a self-taught Data Scientist. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
+Currently, I pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh. My research interests are Computer Vision, IOT and NLP. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Love to play with data and design model for making data driven solutions.
+
+Let’s connect if you want to collab and create something awesome in the world of machine learning. 
+
+## {...} My Stack
+
+```json
+{
+   "Proficient": ["Python", "Java", "C", "C++", "SQL", "RDMS"],
+   "Familiar with": ["JavaScript", "HTML", "CSS", "Tableau", "PowerBI", "Apache Spark"]
+   "backend": ["Django","Flask"],
+   "databases": ["MySql","MS SQL Server"],
+   "Cloud": ["GCP","IBM"],
+   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark","Tensorflow"],
+   "experimenting": ["Django", "Heroku"],
+}
+```
+
+
+## :tada: Achievements
+
+[Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/4ec86e497c1911032305f926af97b14f93113e1b)
+
+[IBM DATA SCIENCE Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/8GZR9L6S9FTQ)
+
+[IBM Applied Data Science Specialist Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/2RWYTA95NUZQ)
+
+[Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/40486c6fc820f57182a0f429ca84e71efe9f13b6)
+
+[Machine Learning Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/b75c6afa597da2c19db73610234909eb97ad2be7)
+
+[Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/17c8000fb6d22ddcde0fd0472a7bb21a5fc113cc)
+
+[Marketing Analytics with Python](https://www.datacamp.com/statement-of-accomplishment/track/ab5c15fb2dff98f64cc4e29597c0693b5238fe86)
+
+[Time Series with Python](https://www.datacamp.com/statement-of-accomplishment/track/fc34dea3d46aebba88dd2aa2964d753756a4d5ee)
+
+[MAchine Learning by Stanford University](https://www.coursera.org/account/accomplishments/certificate/723V2R6E8YGF)
