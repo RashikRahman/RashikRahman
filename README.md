@@ -22,7 +22,7 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
    "backend": ["Django","Flask"],
    "databases": ["MySql","MS SQL Server"],
    "Cloud": ["GCP","IBM"],
-   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark","Tensorflow"],
+   "ai framework":["Keras","Scikit-learn","PySpark","Tensorflow"],
    "experimenting": ["Django", "Heroku"],
 }
 ```
