@@ -8,18 +8,17 @@
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/rashikrahmanpritom)
 
 :wave: Hi there, My name is Rashik Rahman hailing from Dhaka, Bangladesh. I am 22 years old. I am a self-taught Data Scientist. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
-Currently, I pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh. My research interests are Computer Vision, IOT and NLP. 
+Currently, I pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh.Love to play with data and design model for making data driven solutions.
 
-Love to play with data and design model for making data driven solutions.
 
-Let’s connect if you want to collab and create something awesome in the world of machine learning. 
+My research interests are Computer Vision, IOT and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. 
 
 ## {...} My Stack
 
 ```json
 {
    "Proficient": ["Python", "Java", "C", "C++", "SQL", "RDMS"],
-   "Familiar with": ["JavaScript", "HTML", "CSS", "Tableau", "PowerBI", "Apache Spark"]
+   "Familiar with": ["JavaScript", "HTML", "CSS", "Tableau", "PowerBI", "Apache Spark"],
    "backend": ["Django","Flask"],
    "databases": ["MySql","MS SQL Server"],
    "Cloud": ["GCP","IBM"],
