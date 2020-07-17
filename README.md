@@ -46,4 +46,4 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 
 [Time Series with Python](https://www.datacamp.com/statement-of-accomplishment/track/fc34dea3d46aebba88dd2aa2964d753756a4d5ee)
 
-[MAchine Learning by Stanford University](https://www.coursera.org/account/accomplishments/certificate/723V2R6E8YGF)
+[Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/certificate/723V2R6E8YGF)
