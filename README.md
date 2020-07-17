@@ -1,7 +1,11 @@
-### Hi there 👋
+<a target="_blank" href="https://shunjid.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
 
-<!--
-**RashikRahman/RashikRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rashik Rahman
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rashik-rahman-5a327a1a6/)
+[![Website](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=website&logoColor=ffffff)](https://rashikrahman.github.io/Website/)
+[![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rashikrahman.pritom.7)
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/rashikrahmanpritom)
 
 Here are some ideas to get you started:
 
