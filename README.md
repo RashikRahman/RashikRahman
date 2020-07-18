@@ -19,15 +19,15 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 {
    "Proficient": ["Python", "Java", "C", "C++", "SQL", "RDMS"],
    "Familiar with": ["JavaScript", "HTML", "CSS", "Tableau", "PowerBI", "Apache Spark"],
-   "backend": ["Django","Flask"],
-   "databases": ["MySql","MS SQL Server"],
+   "Backend": ["Django","Flask"],
+   "Database": ["MySql","MS SQL Server"],
    "Cloud": ["GCP","IBM"],
-   "ai framework":["Keras","Scikit-learn","PySpark","Tensorflow"],
-   "experimenting": ["Django", "Heroku"],
-   "modules & Library":["Pandas","Numpy","Scipy","Matplotlib & seaborn","Folium & foursquare api","Beautifulsoup","Selenium",
+   "AI framework":["Keras","Scikit-learn","PySpark","Tensorflow"],
+   "Experimenting": ["Django", "Heroku"],
+   "Modules & Library":["Pandas","Numpy","Scipy","Matplotlib & seaborn","Folium & foursquare api","Beautifulsoup","Selenium",
                           "SpeechRecognition","nltk","etc"],
                           
-   "machine learning algorithms": ["LinearRegression","LogisticRegression","KNeighborsRegressor","SVR","DecisionTree",
+   "Machine Learning Algorithms": ["LinearRegression","LogisticRegression","KNeighborsRegressor","SVR","DecisionTree",
                                     "RandomForest","SVM","KNN","Naive Bayes","XGBoost", "AdaBoostClassifier","Lasso",
                                     "K-means","DBSCAN","Model Validation","Feature Selection","Dimensionality Reduction"]
 }
