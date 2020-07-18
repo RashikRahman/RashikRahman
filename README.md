@@ -27,9 +27,9 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
    "modules & Library":["Pandas","Numpy","Scipy","Matplotlib & seaborn","Folium & foursquare api","Beautifulsoup","Selenium",
                           "SpeechRecognition","nltk","etc"],
                           
-   "machine learning algorithms": ["LinearRegression","LogisticRegression","KNeighborsRegressor","SVR","DecisionTree","RandomForest",
-                                   "SVM","KNN","Naive Bayes","XGBoost", "AdaBoostClassifier","Lasso","K-means","DBSCAN",
-                                   "Model Validation","Feature Selection","Dimensionality Reduction"]
+   "machine learning algorithms": ["LinearRegression","LogisticRegression","KNeighborsRegressor","SVR","DecisionTree",
+                                    "RandomForest","SVM","KNN","Naive Bayes","XGBoost", "AdaBoostClassifier","Lasso",
+                                    "K-means","DBSCAN","Model Validation","Feature Selection","Dimensionality Reduction"]
 }
 ```
 
