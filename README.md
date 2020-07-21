@@ -10,8 +10,9 @@
 :wave: Hi there, My name is Rashik Rahman hailing from Dhaka, Bangladesh. I am 22 years old. I am a self-taught Data Scientist. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
 Currently, I am pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh. Love to play with data and develop Machine Learning models to help make data driven solutions. 
 
-
 My research interests are Computer Vision, IOT and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="RashikRahman" /> </p>
 
 ## {...} My Stack
 
@@ -53,3 +54,5 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 [Time Series with Python](https://www.datacamp.com/statement-of-accomplishment/track/fc34dea3d46aebba88dd2aa2964d753756a4d5ee)
 
 [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/certificate/723V2R6E8YGF)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RashikRahman&show_icons=true" alt="RashikRahman" /> </h1>
