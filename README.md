@@ -6,7 +6,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][WEBSITE]
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rashik-rahman-5a327a1a6/)
-[![Website](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=html&logoColor=ffffff)](https://rashikrahman.github.io/Website/)
+[![Website](img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg")](https://rashikrahman.github.io/Website/)
 [![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rashikrahman.pritom.7)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/rashikrahmanpritom)
 
