@@ -62,4 +62,8 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RashikRahman&show_icons=true&theme=synthwave" alt="RashikRahman" /> </h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RashikRahman&hide=issues,prs&show_icons=true&theme=synthwave" alt="RashikRahman" /> </h1>
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashikRahman&show_icons=true&theme=synthwave" alt="RashikRahman" /> </h1>
+
