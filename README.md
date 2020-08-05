@@ -61,5 +61,5 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 [Applied Data Science with Pythn Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UPL3Y24MYALW)
 
 
-<p align="center"> ![Rashik's github stats](https://github-readme-stats.vercel.app/api?username=RashikRahman&show_icons=true&theme=synthwave) </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RashikRahman&show_icons=true&theme=synthwave" alt="RashikRahman" /> </h1>
