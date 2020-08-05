@@ -58,8 +58,8 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 
 [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/certificate/723V2R6E8YGF)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RashikRahman&show_icons=true" alt="RashikRahman" /> </h1>
+[Applied Data Science with Pythn Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UPL3Y24MYALW)
 
 
-![Rashik's github stats](https://github-readme-stats.vercel.app/api?username=RashikRahman&show_icons=true&theme=radical)
+![Rashik's github stats](https://github-readme-stats.vercel.app/api?username=RashikRahman&show_icons=true&theme=synthwave)
 
