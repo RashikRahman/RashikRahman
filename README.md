@@ -11,10 +11,12 @@
 [![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rashikrahman.pritom.7)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/rashikrahmanpritom)
 
-:wave: Hi there, My name is Rashik Rahman hailing from Dhaka, Bangladesh. I am 22 years old. I am a self-taught Data Scientist. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
+:wave: Hi there, My name is Rashik Rahman hailing from Dhaka, Bangladesh. I am pursuing a career in Data Science. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
 Currently, I am pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh. Love to play with data and develop Machine Learning models to help make data driven solutions. 
 
 My research interests are Computer Vision, IOT and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. You can checkout my research work from the followings.
+
+My research interests are Computer Vision, IoT, and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning.
 
 - [Rashik Rahman ReseachGate](https://www.researchgate.net/profile/Rashik_Rahman)
 - [Rashik Rahman Google Scholar](https://scholar.google.com/citations?user=20fAehwAAAAJ&hl=en)
