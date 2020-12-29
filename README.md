@@ -12,7 +12,7 @@
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/rashikrahmanpritom)
 
 :wave: Hi there, My name is Rashik Rahman hailing from Dhaka, Bangladesh. I am pursuing a career in Data Science. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
-Currently, I am pursuing my Undergraduate Degree in CSE from University of Asia Pacific,Bangladesh. Love to play with data and develop Machine Learning models to help make data driven solutions. 
+Currently, I am pursuing my Undergraduate Degree in CSE from The University of Asia Pacific,Bangladesh. Love to play with data and develop Machine Learning models to help make data driven solutions. 
 
 My research interests are Computer Vision, IOT and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. You can checkout my research work from the followings.
 
