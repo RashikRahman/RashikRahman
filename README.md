@@ -74,7 +74,7 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RashikRahman&theme=radical" alt="RashikRahman" width="600" /></p>
 
 <p align="center">
-<a href="https://github.com/RashikRahman/github-readme-activity-graph">
+
  <img src="https://activity-graph.herokuapp.com/graph?username=RashikRahman&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
+
 </p>
