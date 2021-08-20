@@ -28,7 +28,9 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 <a href="https://www.instagram.com/rashikrahmanpritom/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 <a href="https://rashikrahman.github.io/Website/"><img src="https://img.shields.io/badge/WebSite-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://www.researchgate.net/profile/Rashik-Rahman-2"><img src="https://img.shields.io/badge/ResearchGate-1877F2?style=for-the-badge&logo=researchGate&logoColor=white" /></a> 
-<a href="https://scholar.google.com/citations?user=20fAehwAAAAJ&hl=en"><img src="https://img.shields.io/badge/GoogleScholar-1877F2?style=for-the-badge&logo=googleScholar&logoColor=white" /></a> 
+<a href="https://scholar.google.com/citations?user=20fAehwAAAAJ&hl=en"><img src="https://img.shields.io/badge/GoogleScholar-1877F2?style=for-the-badge&logo=googleScholar&logoColor=white" /></a>
+<a href="https://www.kaggle.com/rashikrahmanpritom"><img src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white" /></a> 
+
 
 ## {...} My Stack
 
