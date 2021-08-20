@@ -23,15 +23,11 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="RashikRahman" /> </p>
 
 ### Available On-
-<a href="https://www.facebook.com/shawon.barmon.2"><img src="https://img.shields.io/badge/Kaggle-1877F2?style=for-the-badge&logo=kaggle&logoColor=white" /></a> 
-<a href="https://mail.google.com/mail/u/1/#inbox?compose=jrjtXDzFfXjMNRksMPWfDtrGncNLgJfVSQmHCgRvTtWXwsDpFjTNSRNZqxSKVpjVQZZJzMhQ"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="https://twitter.com/ShawonBarman5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.whatsapp.com/?lang=en"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/shawon-barman-688968176/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/shawon43_official/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-<a href="https://www.github.com/ShawonBarman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
-<a href="https://stackoverflow.com/users/16108239/shawon-barman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
-<a href="https://www.behance.net/freelancershawon"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="https://www.facebook.com/rashikrahman.pritom.7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/rashik-rahman-5a327a1a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/rashikrahmanpritom/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://www.github.com/RashikRahman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="https://rashikrahman.github.io/Website/"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=website&logoColor=white" /></a> 
 
 ## {...} My Stack
 
