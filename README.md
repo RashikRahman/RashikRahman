@@ -69,3 +69,9 @@ My research interests are Computer Vision, IOT and NLP. Let’s connect if you w
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashikRahman&show_icons=true&theme=synthwave" alt="RashikRahman" /> 
 
+<p align="center">
+<a href="https://github.com/RashikRahman">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RashikRahman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RashikRahman&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
