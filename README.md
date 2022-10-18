@@ -4,8 +4,8 @@
 # Rashik Rahman
 
 
-:wave: Hi there, My name is Rashik Rahman hailing from Dhaka, Bangladesh. I am pursuing a career in Data Science. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
-Currently, I am pursuing my Undergraduate Degree in CSE from The University of Asia Pacific, Bangladesh. Love to play with data and develop Machine Learning models to help make data-driven solutions. 
+:wave: Hi there, My name is Rashik Rahman hailing from Dhaka, Bangladesh. I am a lecturer at The University of Asia Pacific. I have profound knowledge in Image Processing, Machine Learning, and now practicing Deep Learning and NLP. 
+I have completed my undergraduate degree in CSE from The University of Asia Pacific, Bangladesh. Love to play with data and develop Machine Learning models to help make data-driven solutions. 
 
 My research interests are Computer Vision, IOT, and NLP. Let’s connect if you want to collab and create something awesome in the world of machine learning. You can check out my research work from the following.
 
