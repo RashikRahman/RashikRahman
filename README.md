@@ -41,7 +41,10 @@ My research interests are Computer Vision, IOT, and NLP. Let’s connect if you 
                           
    "Machine Learning Algorithms": ["LinearRegression","LogisticRegression","KNeighborsRegressor","SVR","DecisionTree",
                                     "RandomForest","SVM","KNN","Naive Bayes","XGBoost", "AdaBoostClassifier","Lasso",
-                                    "K-means","DBSCAN","Model Validation","Feature Selection","Dimensionality Reduction"]
+                                    "K-means","DBSCAN","Model Validation","Feature Selection","Dimensionality Reduction"],
+   
+   "Deep Learning": ["CNN","LSTM","Bi-LSTM","Transfer Learning","Model optimization and quantization",
+                                    "TinyML","Pipelining","Keras sequential and functional API"]
 }
 ```
 
